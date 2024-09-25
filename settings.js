@@ -3,21 +3,21 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "237656520674"
-global.ownername = "Your name"
+global.ownername = "Amirr 🥷🔥"
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'your name here' //creatoe name
-global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒' //name of the bot
+global.ownernumber = '237681044070'  //creator number
+global.ownername = 'Primo 🥷🔥' //creatoe name
+global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2-Amirr 🥷🔥' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
 global.author = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒\n\nYouTube KermHackTools'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '🥷'
 global.wm = "Kerm Bug Bot."
 
 //theme link
@@ -29,9 +29,9 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
